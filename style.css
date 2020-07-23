@@ -6,7 +6,21 @@
 
 .nav {
 	background-color: #F58282;
+	width: 100%;
 }
 .b {
 	font-family: 'Copperplate', sans-serif;
 }
+
+/*.header {
+	font-size: 30pt;
+  border: solid black;
+}
+
+.headcontainer {
+height: 200px;
+margin-bottom: 20pt;
+display: inline-block;
+  vertical-align: middle;
+  width:100%;
+}*/
