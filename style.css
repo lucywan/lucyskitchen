@@ -1,7 +1,13 @@
 .foodpic {
-	height: 200px;
+	height: 300px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 
 .nav {
 	background-color: #F58282;
+}
+.b {
+	font-family: 'Copperplate', sans-serif;
+
 }
