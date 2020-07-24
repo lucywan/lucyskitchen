@@ -1,8 +1,14 @@
 .foodpic {
 	height: 300px;
-	margin-left: 20px;
-	margin-right: 20px;
+	display: inline-block;
+	margin-left: 5pt;
+	margin-right: 5pt;
 }
+
+.imgcon {
+	text-align: center;
+}
+
 
 .nav {
 	background-color: #71EEB8;
@@ -41,7 +47,7 @@ position:relative;
     display: -moz-inline-box;
     *display: inline; /* For IE7 */
     zoom: 1; /* Trigger hasLayout */
-    width: 10%;
+    width: 15%;
     text-align: center;
 color: #3F000F;
 }
